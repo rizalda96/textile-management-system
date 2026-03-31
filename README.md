@@ -68,8 +68,8 @@ A modern, full-stack **Textile Management System** built with **Laravel 11**, **
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tms2.git
-cd tms2
+git clone https://github.com/rizalda96/textile-management-system.git
+cd textile-management-system
 ```
 
 ### 2. Install PHP dependencies
